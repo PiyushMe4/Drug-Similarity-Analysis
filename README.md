@@ -30,3 +30,7 @@ This repository contains reports and workflow for identifying drugs structurally
   
 ## Conclusion
 This project simply demonstrates the power of computational tools in identifying structurally similar drugs. By combining 2D fingerprint analysis with 3D spatial alignment, a well-rounded approach to molecular similarity evaluation can be acheived. The findings provide insights into potential drug alternatives for various diseases and pave the way for further research in drug discovery.
+
+## Acknowledgment
+- **@Bversity School of Bioscience**
+- **@Bversity+ Community**
